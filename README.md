@@ -32,6 +32,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see your app.
 npx create-rise-dapp@latest my-app --template chat        # Real-time chat with karma
 npx create-rise-dapp@latest my-app --template leverage    # Leverage App
 npx create-rise-dapp@latest my-app --template frenpet     # Virtual pet game
+npx create-rise-dapp@latest my-app --template pump     # Pump App
 ```
 
 ## Project Structure
