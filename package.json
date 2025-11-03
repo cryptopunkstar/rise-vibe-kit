@@ -44,6 +44,6 @@
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.2"
-    "next": "15.3.4"
+    "next": "16.0.1"
   }
 }
