@@ -4,6 +4,7 @@
   "description": "A template for building dApps on RISE with Foundry and Next.js",
   "private": true,
   "scripts": {
+    "build": "next build",
     "chain": "cd contracts && anvil --fork-url https://testnet.riselabs.xyz/",
     "sync-contracts": "node scripts/sync-contracts.js",
     "sync-contracts:update": "node scripts/sync-contracts-update.js",
@@ -43,7 +44,7 @@
   "author": "Modularweb3",
   "license": "MIT",
   "devDependencies": {
-    "concurrently": "^8.2.2"
-    "next": "16.0.1"
+    "concurrently": "^8.2.2",
+    "next": "latest"
   }
 }
