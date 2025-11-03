@@ -40,9 +40,10 @@
     "test:e2e": "cd frontend && npm run test:e2e"
   },
   "keywords": ["rise", "blockchain", "dapp", "foundry", "nextjs"],
-  "author": "",
+  "author": "Modularweb3",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.2"
+    "next": "15.3.4"
   }
 }
